@@ -1,3 +1,5 @@
+# Social media links in TYPO3 using typoscript
+# http://stackoverflow.com/questions/11390907/social-media-links-in-typo3-using-typoscript
 lib.socialmenu = HMENU
 lib.socialmenu {
   special = directory
